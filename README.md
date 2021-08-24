@@ -12,7 +12,7 @@ And I love fruit very much. 🍎 🍓 🥭 🥝
 
 1. Collecting and sharing awesome resources about technical communication (tech comm):
 
-   [![Awesome Technical Communication](https://github-readme-stats.vercel.app/api/pin?username=lilin90&repo=awesome-technical-communication&theme=radical)](https://github.com/lilin90/awesome-technical-communication)
+   [![Awesome Technical Communication](https://github-readme-stats.vercel.app/api/pin?username=lilin90&repo=awesome-technical-communication&theme=tokyonight)](https://github.com/lilin90/awesome-technical-communication)
 
    > **Note:** Currently, this project includes tech comm resources in both English and Chinese.
 
