@@ -34,4 +34,11 @@ And I love fruit very much. 🍎 🍓 🥭 🥝
 [![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://www.zhihu.com/people/liliansd)
 [![微信公众号](https://img.shields.io/badge/微信公众号-white?logo=wechat)](https://res.cloudinary.com/lilian-photos/image/upload/v1585391408/cover/wechat-qrcode-scan-to-follow.jpg)
 
+## GitHub Infos
+<img src="https://github-profile-trophy.vercel.app/?username=charles0122&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
+
+## Languages
+<a href="https://github.com/duktig666">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles0122&theme=vue" />
+</a>
 
