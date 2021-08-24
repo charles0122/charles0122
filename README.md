@@ -2,11 +2,11 @@
 
 🤓 I'm Charles, a Content Strategist | Senior Technical Writer.
 
- I love photography 📷, traveling ✈️, cooking and enjoying delicious food 🥘 ([a Lv7 VIP at Dianping 大众点评](https://m.dianping.com/userprofile/121632876)).
+ I love photography 📷, traveling ✈️, cooking and enjoying delicious food 🥘 .
 
 And I love fruit very much. 🍎 🍓 🥭 🥝
 
-![Lilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=charles0122&show_icons=true&theme=tokyonight)
+![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=charles0122&show_icons=true&theme=tokyonight)
 
 ### My side projects
 
