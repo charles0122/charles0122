@@ -31,11 +31,11 @@ And I love fruit very much. 🍎 🍓 🥭 🥝
 [![Instagram](https://img.shields.io/badge/Instagram-white?logo=instagram)](https://www.instagram.com/lilianlee.me/)
 [![Pixabay](https://img.shields.io/badge/Pixabay-white?logo=pixabay)](https://pixabay.com/zh/users/lilian90-1322641/)
 
-[![知乎](https://img.shields.io/badge/知乎-blue?logo=zhihu)](https://www.zhihu.com/people/charles0122)
+[![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://www.zhihu.com/people/charles0122)
 [![微信公众号](https://img.shields.io/badge/微信公众号-white?logo=wechat)](#)
 [![QQ会话](https://img.shields.io/badge/QQ-grey?logo=TencentQQ)](http://wpa.qq.com/msgrd?v=3&uin=756337520&site=qq&menu=yes)
 [![微信](https://img.shields.io/badge/微信-white?logo=wechat)](http://wpa.weixin.com/msgrd?v=3&uin=charles010122&site=weixin&menu=yes)
-[![哔哩哔哩](https://img.shields.io/badge/bilibili-pink?logo=Bilibili)](https://space.bilibili.com/223987409)
+[![哔哩哔哩](https://img.shields.io/badge/bilibili-white?logo=Bilibili)](https://space.bilibili.com/223987409)
 [![网易云音乐](https://img.shields.io/badge/网易云-white?logo=AppleMusic)](https://music.163.com/#/user/home?id=1331469391)
 
 ## GitHub Infos
