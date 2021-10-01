@@ -1,8 +1,8 @@
  ### Hi there 👋
 
-🤓 I'm Charles, a UI Designer | Independent Game Developer | .
+🤓 I'm Charles, a UI Designer | Independent Game Developer | a Dreamer 😂.
 
- I love photography 📷, traveling ✈️, cooking and enjoying delicious food 🥘 .
+ I love photography 📷, traveling ✈️, cooking and enjoying delicious food 🥘 , play badminton 🏸 , basketball 🏀 , ping pong 🏓 .
 
 And I love fruit very much. 🍎 🍓 🥭 🥝
 
@@ -18,8 +18,8 @@ And I love fruit very much. 🍎 🍓 🥭 🥝
 
 2. Keep writing and publishing articles about tech comm (technical writing, stories, self-improvement, etc.) in Chinese:
 
-   - [知乎专栏：技术传播那些事儿](https://www.zhihu.com/column/tc-fun)
-    - [微信公众号：技术传播那些事儿](https://res.cloudinary.com/lilian-photos/image/upload/v1585391408/cover/wechat-qrcode-scan-to-follow.jpg)
+   - [Charles's Blog](https://charles0122.github.io/)
+    - [微信公众号：Arce](https://res.cloudinary.com/lilian-photos/image/upload/v1585391408/cover/wechat-qrcode-scan-to-follow.jpg)
 
 
 ### Get in touch
