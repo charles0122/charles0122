@@ -24,7 +24,7 @@ And I love fruit very much. 🍎 🍓 🥭 🥝
 
 ### Get in touch
 
-[![charles.blog](https://img.shields.io/badge/lilianlee.me-orange)](https://charles0122.github.io/)
+[![charles.blog](https://img.shields.io/badge/charles.me-orange)](https://charles0122.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/lilin90)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/lilian-lee-54305777/)
 [![Twitter](https://img.shields.io/badge/Twitter-white?logo=twitter)](https://twitter.com/lilianlee90/)
