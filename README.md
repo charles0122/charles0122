@@ -19,12 +19,12 @@ And I love fruit very much. 🍎 🍓 🥭 🥝
 2. Keep writing and publishing articles about tech comm (technical writing, stories, self-improvement, etc.) in Chinese:
 
    - [Charles's Blog](https://charles0122.github.io/)
-    - [微信公众号：Arce](https://res.cloudinary.com/lilian-photos/image/upload/v1585391408/cover/wechat-qrcode-scan-to-follow.jpg)
+    - [微信公众号：Arce](https://gitee.com/charles0122/picgocloud/raw/master/wechat_qrcode_scan_to_follow.png)
 
 
 ### Get in touch
 
-[![lilianlee.me](https://img.shields.io/badge/lilianlee.me-orange)](https://lilianlee.me/)
+[![charles.blog](https://img.shields.io/badge/lilianlee.me-orange)](https://charles0122.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/lilin90)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/lilian-lee-54305777/)
 [![Twitter](https://img.shields.io/badge/Twitter-white?logo=twitter)](https://twitter.com/lilianlee90/)
