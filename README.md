@@ -1,6 +1,6 @@
  ### Hi there 👋
 
-🤓 I'm Charles, a UI Designer | Independent Game Developer | a Dreamer 😂.
+🤓 I'm Charles, a Independent Game Developer | a Dreamer 😂.
 
  I love photography 📷, traveling ✈️, cooking and enjoying delicious food 🥘 , play badminton 🏸 , basketball 🏀 , ping pong 🏓 .
 
